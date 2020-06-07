@@ -98,9 +98,9 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav nav-list fr">
-                <li class="active"><a title="Home" class="btn btn-default" href="https://fbdownloader.net">Home</a></li>
-                <li><a title="Private Video Downlaoder" class="btn btn-default" href="https://fbdownloader.net/private-facebook-downloader/">Private Video Downloader</a></li>
-                <li><a title="Contact" class="btn btn-default" href="https://fbdownloader.net/contact/">Contact</a></li>
+                <li class="active"><a title="Home" class="btn btn-default" href="https://facebook-download.github.io/Facebook-/">Home</a></li>
+                <li><a title="Private Video Downlaoder" class="btn btn-default" href="https://facebook-download.github.io/Facebook/">Private Video Downloader</a></li>
+                <li><a title="Contact" class="btn btn-default" href="https://facebook-download.github.io/Contact/">Contact</a></li>
             </ul>
         </div><!--/.nav-collapse -->
         <a id="bookmarklet" class="absolute bookmark btn btn-default" href="javascript:var title = window.location.href; if (title.indexOf('https://fbdownloader.net') == 0) { (function(){ void(0); })(); }else { (function(){ window.open('https://fbdownloader.net/download/?url=' + location.href  + '?src=bookmarklet')}()); }" title="FBDownloader Bookmarklet"><span class="fa fa-bookmark"></span>&nbsp;&nbsp;bookmark</a>
@@ -167,7 +167,7 @@
                 <div class="col-md-12">
                     <p style="max-width:950px; margin: 0 auto; text-align: justify">FB Downloader was created so that anyone can download and save their favorite Facebook videos online using an easy to use web interface. We designed the website to work across all platforms so you'll enjoy the same user experience whether you browse the website on your Iphone, Android Tablet, or PC. This site is completely free to use and doesn't require any third-party software to work.
                        Our online Facebook downloader will allow you to save any public Facebook video in high-quality or low-quality MP4 format. FBDownloader also allows you to convert Facebook videos to mp3 audio files. To get started, grab the link to the Facebook video you'd like to save and paste it on the homepage. Wait while our servers quickly convert and process the video to a downloadable MP4 or MP3 file.
-                        </br></br> If you are trying to download
+                        If you are trying to download
                         private Facebook videos then please visit the
                         <a href="https://fbdownloader.net/private-facebook-downloader/">private video downloader</a>. To learn a little more about this website, please visit our <a
                             href="https://fbdownloader.net/about/">about us</a> page.</p>
@@ -181,7 +181,7 @@
     <div class="container">
         <div class="col-md-12 primary-footer page-footer">
             <p class="copyright">Copyright &copy; 2020 - fbdownloader.net<br/>
-                <a title="Terms and Conditions" href="https://fbdownloader.net/terms/">Terms & Conditions</a> - <a title="Privacy Policy" href="https://fbdownloader.net/privacy/">Privacy Policy</a> - <a title="About" href="https://fbdownloader.net/about/">About</a> -
+                <a title="Terms and Conditions" href="https://facebook-download.github.io/Facebook-/">Terms & Conditions</a> - <a title="Privacy Policy" href="https://facebook-download.github.io/Facebook-/">Privacy Policy</a> - <a title="About" href="https://fbdownloader.net/about/">About</a> -
                 <a title="Twitter Video Downloader" href="https://twoffline.net">Twitter Video Downloader</a> - <a href="https://fbdownloader.net">Facebook Downloader</a> - <a rel='nofollow' target="_blank" href="https://fancyfonts.co/facebook-text-generator/">Facebook Text</a>
                                             </p>
         </div>

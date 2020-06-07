@@ -56,14 +56,6 @@
             fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));</script>
 
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({
-            google_ad_client: "ca-pub-9177746870581608",
-            enable_page_level_ads: true
-        });
-    </script>
-
             <!-- Open Graph data -->
         <meta itemprop="name" content="Facebook Video Downloader - FBDownloader.net" />
         <meta itemprop="description" content="Download Facebook videos and save them to your PC or Phone. Our Facebook video downloader lets you save videos in high quality MP4 format online and for free." />
@@ -208,33 +200,12 @@
             $(this).html('Processing video...');
         });
 
-        
-        $('.fb-video-container').on('click', function(){
-            //$('#embed-modal').modal('show');
-        });
-
-        $('#bookmarklet').on('click', function(e){
-            e.preventDefault();
-            alert("Drag and drop this to your bookmarks toolbar or save the link as a bookmark. When you are in Facebook, simply click the bookmark to download the video.");
-        });
+       
 
 
         
 
     });
 </script>
-
-
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-78205517-2"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-78205517-2');
-</script>
-
 </body>
 </html>

@@ -58,7 +58,7 @@
 
             <!-- Open Graph data -->
         <meta itemprop="name" content="Facebook Video Downloader - FBDownloader.net" />
-        <meta itemprop="description" content="Download Facebook videos and save them to your PC or Phone. Our Facebook video downloader lets you save videos in high quality MP4 format online and for free." />
+        <meta itemprop="description" content="Download Facebook videos" />
         <meta itemprop="image" content="https://fbdownloader.net/img/256x256.png" />
 
         <meta property="og:type" content="website"/>
@@ -71,7 +71,7 @@
         <!-- Twitter Card data -->
         <meta name="twitter:card" content="summary">
         <meta name="twitter:title" content="Facebook Video Downloader - FBDownloader.net">
-        <meta name="twitter:description" content="Download Facebook videos and save them to your PC or Phone. Our Facebook video downloader lets you save videos in high quality MP4 format online and for free.">
+        <meta name="twitter:description" content="Download Facebook videos.">
         <meta name="twitter:image" content="https://fbdownloader.net/img/256x256.png">
         <meta name="twitter:image:src" content="https://fbdownloader.net/img/256x256.png">
         <meta name="twitter:url" content="https://fbdownloader.net/">
@@ -157,8 +157,7 @@
                     <div class="divider"></div>
                 </div>
                 <div class="col-md-12">
-                    <p style="max-width:950px; margin: 0 auto; text-align: justify">FB Downloader was created so that anyone can download and save their favorite Facebook videos online using an easy to use web interface. We designed the website to work across all platforms so you'll enjoy the same user experience whether you browse the website on your Iphone, Android Tablet, or PC. This site is completely free to use and doesn't require any third-party software to work.
-                        </br></br>Our online Facebook downloader will allow you to save any public Facebook video in high-quality or low-quality MP4 format. FBDownloader also allows you to convert Facebook videos to mp3 audio files. To get started, grab the link to the Facebook video you'd like to save and paste it on the homepage. Wait while our servers quickly convert and process the video to a downloadable MP4 or MP3 file.
+                  
                         </br></br> If you are trying to download
                         private Facebook videos then please visit the
                         <a href="https://fbdownloader.net/private-facebook-downloader/">private video downloader</a>. To learn a little more about this website, please visit our <a
@@ -173,36 +172,13 @@
     <div class="container">
         <div class="col-md-12 primary-footer page-footer">
             <p class="copyright">Copyright &copy; 2020 - fbdownloader.net<br/>
-                <a title="Terms and Conditions" href="https://fbdownloader.net/terms/">Terms & Conditions</a> - <a title="Privacy Policy" href="https://fbdownloader.net/privacy/">Privacy Policy</a> - <a title="About" href="https://fbdownloader.net/about/">About</a> -
-                <a title="Twitter Video Downloader" href="https://twoffline.net">Twitter Video Downloader</a> - <a href="https://fbdownloader.net">Facebook Downloader</a> - <a rel='nofollow' target="_blank" href="https://fancyfonts.co/facebook-text-generator/">Facebook Text</a>
+                <a title="Terms and Conditions" href="https://fbdownloader.net/terms/">Terms & Conditions</a> - <a title="Privacy Policy" href="https://fbdownloader.net/privacy/">Privacy Policy</a> - <a title="About" href="https://fbdownloader.net/about/">About</a> -href="https://fbdownloader.net">Facebook Downloader</a> - <a rel='nofollow' target="_blank" href="https://fancyfonts.co/facebook-text-generator/">Facebook Text</a>
                                             </p>
         </div>
     </div>
 </footer>
 
 <div id="playblock" class='hidden'></div>
-
-<!-- Bootstrap core JavaScript
-================================================== -->
-<!-- Placed at the end of the document so the pages load faster -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
-<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-
-
-<script>
-    $(document).ready(function(){
-        $('#go').click(function(){
-            $('#progressbar').removeClass('hidden');
-        });
-        $('#submit').click(function(){
-            $(this).html('Processing video...');
-        });
-
-       
-
-
         
 
     });

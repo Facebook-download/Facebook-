@@ -98,7 +98,7 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav nav-list fr">
-                <li class="active"> title="Home" class="btn btn-default" href="https://fbdownloader.net">Home</a></a></li>
+                <li class="active"><a title="Home" class="btn btn-default" href="https://fbdownloader.net">Home</a></a></li>
                 <li><a title="Private Video Downlaoder" class="btn btn-default" href="https://fbdownloader.net/private-facebook-downloader/">Private Video Downloader</a></li>
                 <li><a title="Contact" class="btn btn-default" href="https://fbdownloader.net/contact/">Contact</a></li>
             </ul>

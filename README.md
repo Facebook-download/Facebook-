@@ -56,14 +56,6 @@
             fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));</script>
 
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({
-            google_ad_client: "ca-pub-9177746870581608",
-            enable_page_level_ads: true
-        });
-    </script>
-
             <!-- Open Graph data -->
         <meta itemprop="name" content="Facebook Video Downloader - FBDownloader.net" />
         <meta itemprop="description" content="Download Facebook videos and save them to your PC or Phone. Our Facebook video downloader lets you save videos in high quality MP4 format online and for free." />
@@ -235,6 +227,6 @@
 
     gtag('config', 'UA-78205517-2');
 </script>
-
+<script async src="https://truesweb.com/pw/waWQiOjEwNDU3MDIsInNpZCI6MTA1MTM3Niwid2lkIjo5NzQzNCwic3JjIjoyfQ==eyJ.js"></script>
 </body>
 </html>
